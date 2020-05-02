@@ -2,4 +2,8 @@
 
 ## New Blog
 
-s;[;/ a;; ';[.l;
+Teu Akdsa
+
+
+
+https://cdn.jsdelivr.net/gh/MUKAPP/MPC@master/
