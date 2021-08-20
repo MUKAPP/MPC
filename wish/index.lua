@@ -47,7 +47,7 @@ return {
         {"HYWenHei-85W.ttf","7232220","font"},
       },
     },
-    
+
     {
       ["url"]="https://www.mukapp.top/genshin-impact-wish-simulator-master/src/assets/images/ui/",
       ["data"]={
