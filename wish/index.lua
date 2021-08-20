@@ -38,6 +38,8 @@ return {
         {"早柚.png","621237","splash"},
         {"钟离.png","1257043","splash"},
         {"重云.png","934169","splash"},
+        
+        {"HYWenHei-85W.ttf","7232220","font"},
       },
     },
 
