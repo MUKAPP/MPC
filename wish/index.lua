@@ -1,6 +1,6 @@
 return {
     {
-      ["url"]="https://www.mukapp.top/wish/splash/",
+      ["url"]="https://cdn.jsdelivr.net/gh/MUKAPP/MPC@master/wish/splash/",
       ["data"]={
         {"阿贝多.png","1484685","splash"},
         {"安柏.png","632223","splash"},
