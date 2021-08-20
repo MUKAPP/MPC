@@ -42,13 +42,6 @@ return {
     },
 
     {
-      ["url"]="https://cdn.jsdelivr.net/gh/MUKAPP/MPC@master/wish/font/",
-      ["data"]={
-        {"HYWenHei-85W.ttf","7232220","font"},
-      },
-    },
-
-    {
       ["url"]="https://www.mukapp.top/genshin-impact-wish-simulator-master/src/assets/images/ui/",
       ["data"]={
         {"3starwish-single.mp4","5832465","video"},
@@ -61,4 +54,12 @@ return {
         {"wish-button.png","30087","img"},
       },
     },
+    
+    {
+      ["url"]="https://cdn.jsdelivr.net/gh/MUKAPP/MPC@master/wish/font/",
+      ["data"]={
+        {"HYWenHei-85W.ttf","7232220","font"},
+      },
+    },
+
   }
